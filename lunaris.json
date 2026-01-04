@@ -12,7 +12,8 @@
       "com.google.android.gms",
       "com.android.chrome",
       "com.android.axion.widgets",
-      "com.libremobileos.sidebar"
+      "com.libremobileos.sidebar",
+      "org.lunaris.dolby"
     ],
     "ramConfigs": {
       "6GB": {
