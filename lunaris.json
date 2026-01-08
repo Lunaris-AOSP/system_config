@@ -13,7 +13,8 @@
       "com.android.chrome",
       "com.android.axion.widgets",
       "com.libremobileos.sidebar",
-      "org.lunaris.dolby"
+      "org.lunaris.dolby",
+      "com.google.android.apps.wellbeing"
     ],
     "ramConfigs": {
       "6GB": {
